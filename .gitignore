@@ -1,2 +1,4 @@
 .ipy*/
 ml-*
+*.csv
+!submission.csv
